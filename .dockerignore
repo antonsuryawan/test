@@ -1,0 +1,9 @@
+go.mod
+go.sum
+README.md
+.terraform
+.terraform/*
+terraform.tfstate*
+terraform
+terraform/*
+
